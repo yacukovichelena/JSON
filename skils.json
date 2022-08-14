@@ -1,7 +1,9 @@
-Git
-Bash
-Linx
-Web testing
-Mobile testing
-SQL
-JMeter
+{
+"step1": "Git",
+"step1": "Bash",
+"step1": "Linx",
+"step1": "Web testing",
+"step1": "Mobile testing",
+"step1": "SQL",
+"step1": "JMeter"
+}
